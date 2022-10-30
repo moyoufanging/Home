@@ -3,7 +3,8 @@
 Wiki 里会收集很多关于编程语言的资源, 以及一些有趣的项目动向，欢迎大家整理。
 ## 教程合集
 ## 项目合集
-[novel-plus](https://github.com/moyoufanging/novel-plus):一个小说cms系统
+### [novel-plus](https://github.com/moyoufanging/novel-plus):一个小说cms系统。
+是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布功能、修改下一章链接、本章说、书友圈。
 # issues
 论坛讨论关于wiki的内容进行讨论。
 ~                                
