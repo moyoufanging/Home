@@ -3,7 +3,7 @@
 Wiki 里会收集很多关于编程语言的资源, 以及一些有趣的项目动向，欢迎大家整理。
 ## 1. 教程合集
 ## 2. 项目合集
-更多内容在wiki
+更多内容在[wiki](https://github.com/moyoufanging/Home/wiki/wiki-home)
 ### 2.1 平台类项目
 #### 2.1.1 小说平台
 ##### 2.1.1.1  [novel-plus](https://github.com/moyoufanging/novel-plus):一个小说cms系统。
