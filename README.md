@@ -3,7 +3,7 @@
 Wiki 里会收集很多关于编程语言的资源, 以及一些有趣的项目动向，欢迎大家整理。
 ## 1. 教程合集
 ### 1.1 ai绘画
-[一个ai绘画的仓库](https://github.com/hua1995116/awesome-ai-painting):可使用绘画的平台、模型的使用教程、自建教程、调参教程、新闻资料。
+[一个ai绘画的仓库(推荐)](https://github.com/hua1995116/awesome-ai-painting):可使用绘画的平台、模型的使用教程、自建教程、调参教程、新闻资料。
 
 [ai绘画，基于github的wiki](https://github.com/moyoufanging/Home/wiki/ai%E7%BB%98%E7%94%BB)：可使用绘画的平台、模型的使用教程、自建教程、调参教程、新闻资料、用素材进行拓展（游戏、电子桌游、跑团、小说+素材）
 ### 1.2 编辑器软件教程
